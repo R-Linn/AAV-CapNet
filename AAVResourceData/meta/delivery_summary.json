@@ -1,0 +1,24 @@
+{
+  "delivery_date": "2026-03-10",
+  "delivery_type": "client_facing_public_data_integration_package",
+  "counts": {
+    "aav_sequence_base_rows": 20,
+    "aav_assay_pairs_rows": 392,
+    "aav_fit4function_support_rows": 100000,
+    "ccle_features_rows": 1300,
+    "source_manifest_rows": 17
+  },
+  "principles": [
+    "publicly verifiable sources only",
+    "no fabricated data",
+    "no forced completion of missing sequences",
+    "no false harmonization of non-comparable assay systems"
+  ],
+  "package_scope": [
+    "formal data tables",
+    "client-facing source manifest",
+    "bilingual delivery notes",
+    "bilingual limitation notes",
+    "bilingual process summary"
+  ]
+}

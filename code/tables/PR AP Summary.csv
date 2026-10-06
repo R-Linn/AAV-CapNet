@@ -1,0 +1,7 @@
+﻿model,AP
+RandomForest,0.8274
+XGBoost,0.798
+MLP,0.7771
+LSTM,0.6228
+CNN,0.6455
+AAV-CapNet,0.6453

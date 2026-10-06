@@ -1,0 +1,3 @@
+﻿variant_id,strategy,source_variant_id,serotype_backbone,mutation_or_insert_desc,notes,source_reference,full_amino_seq,reconstruction_note
+AAV1.3,,,AAV1/AAV6,Hybrid serotype of AAV1 and AAV6 reported in the 10x34 in vitro transduction panel.,Assay-first hybrid serotype anchor from broad transduction panel.,https://pmc.ncbi.nlm.nih.gov/articles/PMC3607841/,,
+U87R7-C5,,,,,D-layer frozen source. Sequence evidence remains assay-first.,https://pmc.ncbi.nlm.nih.gov/articles/PMC2892971/,,

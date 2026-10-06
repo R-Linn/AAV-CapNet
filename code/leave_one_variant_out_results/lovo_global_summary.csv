@@ -1,0 +1,2 @@
+﻿global_mean_auc,global_std_auc,global_mean_acc,global_std_acc,global_mean_f1,global_std_f1
+0.6283,0.2512,0.496,0.4081,0.4043,0.3981

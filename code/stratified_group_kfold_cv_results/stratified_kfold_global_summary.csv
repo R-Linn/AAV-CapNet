@@ -1,0 +1,4 @@
+﻿,avg_auc,std_auc,avg_acc,std_acc,avg_f1,std_f1,min_auc,max_auc
+auc,0.7264,0.1711,,,,,0.35,0.9524
+accuracy,,,0.783,0.0972,,,,
+f1,,,,,0.7425,0.1601,,
